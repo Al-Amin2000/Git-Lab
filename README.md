@@ -3,6 +3,8 @@
 ### Some math Equation
 -</p>
 --<p align ="center">
++ <div align ="center"> 
+
  +
  Frist Equeation:$Y = X&beta; + &epsilon;-y,&forall;x$
  - </p>
@@ -13,7 +15,7 @@
   -</p>
   -- <p align ="center">
   + 
-  $f_(&omega:) = {&sigma;^2 \over 2&pi;},&omega;&pi;[-&pi;,&pi;]$
+  $f_(&omega:) = {&sigma;^2 \over 2&pi;},&omega;&in;[-&pi;,&pi;]$
   - </p>
   + <div>
     1.Frist item a. first sub-item A) first sub-sub item b.second sub-item 
