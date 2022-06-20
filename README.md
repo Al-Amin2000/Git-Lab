@@ -5,8 +5,8 @@
 <p align ="center">
  +
  Frist Equeation:$Y = X&beta; + &epsilon;-y,&forall;x$
- - </p>
- + <div>
+  </p>
+  <div>
  - <p align ="center">
  + <div>
   Second equation :$x =Z_&Epsilon;_x$
