@@ -22,9 +22,9 @@ $f_(&omega;) = {&sigma;^2\over 2&pi;},&omega;&in;[-&pi;,&pi;]$
 
 4.fourth Item
        
-    -First Item
+     -First Item
     
-    -Second Item
+     -Second Item
        
   -frist sub-item
            
