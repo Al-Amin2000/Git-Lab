@@ -1,12 +1,14 @@
 # Assigmment 0:Markdown
 ## You have math Equation
 ### Some math Equation
-- <p align ="center">
-+ <div align ="center">
+-</p>
+--<p align ="center">
+ +
  Frist Equeation:$Y = X&beta; + &epsilon;-y,&forall;x$
  - </p>
+ + <div>
  - <p align ="center">
- +
+ + <div>
   Second equation :$x =Z_&Epsilon;_x$
   -</p>
   -- <p align ="center">
