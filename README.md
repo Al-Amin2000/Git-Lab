@@ -7,3 +7,11 @@
  - </p>
  - <p align ="center">
  +
+  Second equation :$x =Z_&Epsilon;_x$
+  -</p>
+  -- <p align ="center">
+  + 
+  $f_(&omega:) = {&sigma;^2 \over 2&pi;},&omega;&pi;[-&pi;,&pi;]$
+  - </p>
+  + <div>
+
