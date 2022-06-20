@@ -2,13 +2,15 @@
 ## You have math Equation
 ### Some math Equation
 </p>
-    </div>
 <p align="center">
- 
+  </div align="center>
  Frist Equeation:$Y = X&beta; + &epsilon;-y,&forall;x$
-               Second equation:
 </p>
+<p align="center">
     </div>
+  Second equation:$x =z_&gama; + &epilon;_x$
+</p>
+<p align="center">
     1.Frist item a. first sub-item A) first sub-sub item b.second sub-item 
 
     2.Second item 
