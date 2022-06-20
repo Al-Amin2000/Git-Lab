@@ -1,14 +1,14 @@
 # Assigmment 0:Markdown
 ## You have math Equation
 ### Some math Equation
-
-
+</p>
+    </div>
+<p align="center">
  
-                            Frist Equeation:$Y = X&beta; + &epsilon;-y,&forall;x$
-                             Second equation:
-
-  
-  
+ Frist Equeation:$Y = X&beta; + &epsilon;-y,&forall;x$
+               Second equation:
+</p>
+    </div>
     1.Frist item a. first sub-item A) first sub-sub item b.second sub-item 
 
     2.Second item 
@@ -17,9 +17,9 @@
         a. second sub item 
 
     4.fourth Item
-   </p>
-    </div>First Item
-
+       
+        First Item
+    
     *Second Item
        
        *frist sub-item
