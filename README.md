@@ -7,12 +7,13 @@
  Frist Equeation:$Y = X&beta; + &epsilon;-y,&forall;x$
 </p>
 <p align="center">
-    </div>
   Second equation:$x =z_&gama; + &epilon;_x$
 </p>
-<p align="center">
-    1.Frist item a. first sub-item A) first sub-sub item b.second sub-item 
-
+<p align="center"> 
+$f_(&omega;) = {&sigma;^2\over 2&pi;},&omega;&in;[-&pi;,&pi;]$
+   1.Frist item a. first sub-item A) first sub-sub item b.second sub-item 
+</p>
+</div>
     2.Second item 
 
     3.Third item
